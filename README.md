@@ -9,7 +9,7 @@ Forecasting Canada's temperature change, sea ice loss, precipitation, and global
 `Python` `scikit-learn` `Prophet` `Streamlit`
 
 **[Canada Hate Crime Dashboard](https://github.com/ayseguldahi/canada-hate-crime-dashboard)**
-Interactive D3.js dashboard visualizing police-reported hate crimes across Canadian provinces (2014–2023), built on Statistics Canada data — geospatial map, time-series trends, and comparative views.
+Interactive D3.js dashboard visualizing police-reported hate crimes across Canadian provinces (2014–2023), built on Statistics Canada data — geospatial map, time-series trends, and comparative views.🔗 **Live Demo:** https://ayseguldahi.github.io/canada-hate-crime-dashboard/
 `JavaScript` `D3.js` `HTML/CSS`
 
 **[Canadian Unemployment Analysis](https://github.com/ayseguldahi/canadian-unemployment-analysis-ml)**

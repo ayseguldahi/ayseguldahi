@@ -3,6 +3,9 @@
 Data analyst based in Vancouver, Canada. I turn public and business data into clear, decision-ready insights using Python, SQL, and modern BI tools. I'm especially interested in projects with social and environmental impact.
 
 ## Featured Projects
+**[BC Surgical Wait Times: What Averages Hide](https://github.com/ayseguldahi/bc-surgical-wait-times-analysis)**
+PostgreSQL + Python analysis of 16 years of BC surgical wait times. Window functions, data-quality auditing, and hypothesis testing reveal that post-pandemic improvements reached the median patient but not the longest-waiting 10%.
+`PostgreSQL` `Window Functions` `Python` `SciPy` `Hypothesis Testing` `Healthcare Analytics`
 
 **[Climate Forecast Canada](https://github.com/ayseguldahi/climate-forecast-canada)**
 Forecasting Canada's temperature change, sea ice loss, precipitation, and global CO₂ emissions (1968–2030) with Random Forest, Gradient Boosting, and Prophet. Includes an interactive Streamlit dashboard with animated maps.

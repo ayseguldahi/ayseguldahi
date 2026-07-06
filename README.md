@@ -3,6 +3,9 @@
 Data analyst based in Vancouver, Canada. I turn public and business data into clear, decision-ready insights using Python, SQL, and modern BI tools. I'm especially interested in projects with social and environmental impact.
 
 ## Featured Projects
+
+**[BC Electoral Geography: Assigning Places to Districts](https://github.com/ayseguldahi/bc-electoral-geography-analysis)** PostgreSQL + PostGIS analysis of British Columbia's electoral geography: point-in-polygon assignment of voting places to electoral districts, the impact of the 2023 redistribution (87 → 93 districts), and the razor-thin 2024 election margins — Surrey-Guildford decided by just 22 votes, computed from 2.1M valid votes with window functions. `PostgreSQL` `PostGIS` `Spatial SQL` `GIS` `Window Functions`
+
 **[BC Surgical Wait Times: What Averages Hide](https://github.com/ayseguldahi/bc-surgical-wait-times-analysis)**
 PostgreSQL + Python analysis of 16 years of BC surgical wait times. Window functions, data-quality auditing, and hypothesis testing reveal that post-pandemic improvements reached the median patient but not the longest-waiting 10%.
 `PostgreSQL` `Window Functions` `Python` `SciPy` `Hypothesis Testing` `Healthcare Analytics`
